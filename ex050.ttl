@@ -5,5 +5,5 @@
     foaf:mbox "richard49@hotmail.com" ;
     foaf:surname "Mutt" ;
     foaf:workplaceHomepage <http://www.philamuseum.org/> ;
-    foaf:aimCharID "bridesbachelor" .
+    foaf:aimChatID "bridesbachelor" .
 
