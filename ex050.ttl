@@ -1,0 +1,9 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<http://www.learningsparql.com/ns/demo#i93234>
+    foaf:nick "Dick" ;
+    foaf:givenname "Richard" ;
+    foaf:mbox "ricahrd49@hotmail.com" ;
+    foaf:surname "Mutt" ;
+    foaf:workplaceHomepage <http://philamuseum.org/> ;
+    foaf:aimChatID "bridesbachelor" .

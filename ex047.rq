@@ -1,2 +1,9 @@
 PREFIX ab: <http://learningsparql.com/ns/addressbook#>
 
+SELECT ?first ?last
+WHERE
+{
+    ?person ab:homeTel "(229) 276-5135" ;
+            ab:firstName ?first ;
+            ab:lastName  ?last .
+}
